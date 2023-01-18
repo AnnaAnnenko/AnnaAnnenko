@@ -21,7 +21,6 @@
   <code><img width="5%" title="AndroidStudio" src="./images/icons/Android-studio.svg"></code>
   <code><img width="5%" title="Appium" src="./images/icons/Appium.svg"></code>
   <code><img width="5%" title="Browserstack" src="./images/icons/Browserstack.svg"></code>
-  <code><img width="5%" title="Jira" src="./images/icons/Jira.svg"></code>
 </p>
 
 ## My projects:
