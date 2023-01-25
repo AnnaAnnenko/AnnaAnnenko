@@ -2,7 +2,7 @@
 
 - 💼 I'm QA Engineer
 - 🌱 Here you can see my demo autotests projects
-- 📫 Reach me: Telegram @anna_abramovaa
+- 📫 How to reach me: Telegram @anna_abramovaa
 
 ### Tools and technologies:
 <p  align="center">
